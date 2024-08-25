@@ -1,0 +1,7 @@
+CPU Model: x86_64
+
+variance a:0.01, variance b:0.1, mean: [0, 0], covarient: 0.01
+Total generation time: 9828.334 seconds
+Training data shape: (400000, 64, 64)
+Validation data shape: (100000, 64, 64)
+
