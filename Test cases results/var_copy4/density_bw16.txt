@@ -1,0 +1,24 @@
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 2
+Epoch: 500 | Train loss: 0.0342 | Train acc: 0.9874 | Test loss: 0.0394 | Test acc: 0.9871
+Total training time: 1427.419 seconds
+Total parameters: 16466
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 5
+Epoch: 500 | Train loss: 0.1856 | Train acc: 0.9251 | Test loss: 0.1543 | Test acc: 0.9387
+Total training time: 1447.984 seconds
+Total parameters: 16466
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 50
+Epoch: 500 | Train loss: 0.6932 | Train acc: 0.4973 | Test loss: 0.6932 | Test acc: 0.5000
+Total training time: 1436.855 seconds
+Total parameters: 16466
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 100
+Epoch: 500 | Train loss: 0.6932 | Train acc: 0.4973 | Test loss: 0.6932 | Test acc: 0.5000
+Total training time: 1438.940 seconds
+Total parameters: 16466
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 300
+Epoch: 500 | Train loss: 0.6932 | Train acc: 0.5021 | Test loss: 0.6932 | Test acc: 0.5000
+Total training time: 1456.475 seconds
+Total parameters: 16466
+variance a:0.3, variance b:0.3, mean: [2, 2], covarient: 0.01, distance: 500
+Epoch: 500 | Train loss: 0.6932 | Train acc: 0.5003 | Test loss: 0.6932 | Test acc: 0.5000
+Total training time: 1440.937 seconds
+Total parameters: 16466

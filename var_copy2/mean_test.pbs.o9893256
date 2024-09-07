@@ -1,9 +1,0 @@
-Pytorch version: 2.3.1+cu118
-Torchvision version: 0.18.1+cu118
-
-Quadro RTX 6000
-
-Total GPU Memory: 23.64 GB
-Free GPU Memory: 0.00 GB
-Used GPU Memory: 0.00 GB
-Model being used is SimpleCNN

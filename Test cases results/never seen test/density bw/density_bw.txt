@@ -1,0 +1,24 @@
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.1583 | Train acc: 0.9361 | Test loss: 0.2131 | Test acc: 0.9186
+Total training time: 1450.080 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.3198 | Train acc: 0.8709 | Test loss: 0.2746 | Test acc: 0.9008
+Total training time: 1354.815 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.3082 | Train acc: 0.8737 | Test loss: 0.2787 | Test acc: 0.8973
+Total training time: 1347.609 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.3739 | Train acc: 0.8379 | Test loss: 0.3288 | Test acc: 0.8696
+Total training time: 1352.699 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.6582 | Train acc: 0.5992 | Test loss: 0.6602 | Test acc: 0.6088
+Total training time: 1350.129 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.6734 | Train acc: 0.5702 | Test loss: 0.6808 | Test acc: 0.5643
+Total training time: 1357.217 seconds
+Total parameters: 32930

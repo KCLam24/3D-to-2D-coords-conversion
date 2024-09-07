@@ -1,0 +1,36 @@
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.2608 | Train acc: 0.8941 | Test loss: 0.2971 | Test acc: 0.8842
+Total training time: 1082.176 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.1590 | Train acc: 0.9379 | Test loss: 0.1890 | Test acc: 0.9361
+Total training time: 1059.450 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.1079 | Train acc: 0.9593 | Test loss: 0.1274 | Test acc: 0.9590
+Total training time: 1155.968 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.1489 | Train acc: 0.9413 | Test loss: 0.1693 | Test acc: 0.9420
+Total training time: 1061.276 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.0879 | Train acc: 0.9670 | Test loss: 0.0842 | Test acc: 0.9699
+Total training time: 1059.068 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.0582 | Train acc: 0.9788 | Test loss: 0.0740 | Test acc: 0.9750
+Total training time: 1067.065 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.0907 | Train acc: 0.9652 | Test loss: 0.1078 | Test acc: 0.9647
+Total training time: 1058.480 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.0541 | Train acc: 0.9806 | Test loss: 0.0587 | Test acc: 0.9817
+Total training time: 1061.264 seconds
+Total parameters: 32930
+variance a:[0.1, 0.5, 1], variance b:[0.1, 0.5, 1], mean: [0, 0], covarient: 0.01
+Epoch: 500 | Train loss: 0.0346 | Train acc: 0.9881 | Test loss: 0.0430 | Test acc: 0.9863
+Total training time: 1060.303 seconds
+Total parameters: 32930

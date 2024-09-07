@@ -1,0 +1,80 @@
+variance a:0.3, variance b:0.3, mean: [0.1, 0.1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0008 | Train acc: 0.9998 | Test loss: 0.0005 | Test acc: 0.9999
+Total training time: 1496.748 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.1, 0.5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0025 | Train acc: 0.9995 | Test loss: 0.0115 | Test acc: 0.9979
+Total training time: 1522.914 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.1, 1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0057 | Train acc: 0.9983 | Test loss: 0.0184 | Test acc: 0.9965
+Total training time: 1478.026 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.1, 5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0101 | Train acc: 0.9965 | Test loss: 0.0212 | Test acc: 0.9943
+Total training time: 1459.961 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.5, 0.1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0016 | Train acc: 0.9996 | Test loss: 0.0043 | Test acc: 0.9991
+Total training time: 1462.389 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.5, 0.5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0072 | Train acc: 0.9979 | Test loss: 0.0277 | Test acc: 0.9952
+Total training time: 1481.115 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.5, 1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0138 | Train acc: 0.9951 | Test loss: 0.0286 | Test acc: 0.9923
+Total training time: 1497.607 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [0.5, 5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0189 | Train acc: 0.9935 | Test loss: 0.0208 | Test acc: 0.9924
+Total training time: 1517.685 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [1, 0.1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0031 | Train acc: 0.9991 | Test loss: 0.0121 | Test acc: 0.9979
+Total training time: 1430.612 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [1, 0.5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0135 | Train acc: 0.9957 | Test loss: 0.0417 | Test acc: 0.9931
+Total training time: 1459.233 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [1, 1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0278 | Train acc: 0.9904 | Test loss: 0.0355 | Test acc: 0.9906
+Total training time: 1489.423 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [1, 5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0248 | Train acc: 0.9909 | Test loss: 0.0251 | Test acc: 0.9921
+Total training time: 1454.421 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [5, 0.1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0068 | Train acc: 0.9978 | Test loss: 0.0177 | Test acc: 0.9972
+Total training time: 1468.277 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [5, 0.5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0158 | Train acc: 0.9942 | Test loss: 0.0264 | Test acc: 0.9921
+Total training time: 1442.205 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [5, 1], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0237 | Train acc: 0.9920 | Test loss: 0.0247 | Test acc: 0.9927
+Total training time: 1458.530 seconds
+Total parameters: 32930
+variance a:0.3, variance b:0.3, mean: [5, 5], covarient: 0.01
+Training data shape: (64000, 64, 64)
+Epoch: 500 | Train loss: 0.0109 | Train acc: 0.9962 | Test loss: 0.0147 | Test acc: 0.9953
+Total training time: 1441.084 seconds
+Total parameters: 32930
